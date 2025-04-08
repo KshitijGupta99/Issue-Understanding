@@ -3,3 +3,4 @@ Things in shop:
 2. Pista
 3. Berry
 4. Walnuts
+5. RiceCake
