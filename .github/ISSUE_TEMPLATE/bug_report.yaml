@@ -2,7 +2,7 @@ name: 🐛 Bug Report
 description: File a bug report to help us improve
 title: "[BUG] <describe the bug>"
 labels: [bug]
-assignees: ''
+assignees: []
 
 body:
   - type: markdown
