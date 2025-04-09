@@ -4,3 +4,4 @@ Things in shop:
 3. Berry
 4. Walnuts
 5. RiceCake
+6. Shakes
