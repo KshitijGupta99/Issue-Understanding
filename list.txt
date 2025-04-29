@@ -3,5 +3,9 @@ Things in shop:
 2. Pista
 3. Berry
 4. Walnuts
+5. Chips
+
+
 6. Shakes
 7. Water
+
